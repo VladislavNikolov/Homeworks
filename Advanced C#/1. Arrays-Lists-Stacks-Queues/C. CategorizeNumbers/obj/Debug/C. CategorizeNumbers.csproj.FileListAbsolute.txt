@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\C. CategorizeNumbers\bin\Debug\C.CategorizeNumbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\C. CategorizeNumbers\bin\Debug\C.CategorizeNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\C. CategorizeNumbers\bin\Debug\C.CategorizeNumbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\C. CategorizeNumbers\obj\Debug\C. CategorizeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\C. CategorizeNumbers\obj\Debug\C.CategorizeNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\C. CategorizeNumbers\obj\Debug\C.CategorizeNumbers.pdb

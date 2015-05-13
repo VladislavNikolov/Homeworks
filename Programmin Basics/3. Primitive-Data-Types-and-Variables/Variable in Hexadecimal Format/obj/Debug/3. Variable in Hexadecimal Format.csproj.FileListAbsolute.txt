@@ -1,0 +1,8 @@
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb

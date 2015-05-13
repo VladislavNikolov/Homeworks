@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\E. LongestIncreasingSequence\bin\Debug\E.LongestIncreasingSequence.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\E. LongestIncreasingSequence\bin\Debug\E.LongestIncreasingSequence.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\E. LongestIncreasingSequence\bin\Debug\E.LongestIncreasingSequence.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\E. LongestIncreasingSequence\obj\Debug\E. LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\E. LongestIncreasingSequence\obj\Debug\E.LongestIncreasingSequence.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\E. LongestIncreasingSequence\obj\Debug\E.LongestIncreasingSequence.pdb

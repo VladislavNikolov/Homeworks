@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\D. SequencesOfEqualStrings\bin\Debug\D.SequencesOfEqualStrings.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\D. SequencesOfEqualStrings\bin\Debug\D.SequencesOfEqualStrings.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\D. SequencesOfEqualStrings\bin\Debug\D.SequencesOfEqualStrings.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\D. SequencesOfEqualStrings\obj\Debug\D.SequencesOfEqualStrings.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\D. SequencesOfEqualStrings\obj\Debug\D.SequencesOfEqualStrings.pdb

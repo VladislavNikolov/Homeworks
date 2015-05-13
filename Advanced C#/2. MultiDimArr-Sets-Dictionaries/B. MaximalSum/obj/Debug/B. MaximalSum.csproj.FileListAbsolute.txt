@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\B. MaximalSum\bin\Debug\B.MaximalSum.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\B. MaximalSum\bin\Debug\B.MaximalSum.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\B. MaximalSum\bin\Debug\B.MaximalSum.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\B. MaximalSum\obj\Debug\B. MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\B. MaximalSum\obj\Debug\B.MaximalSum.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\B. MaximalSum\obj\Debug\B.MaximalSum.pdb

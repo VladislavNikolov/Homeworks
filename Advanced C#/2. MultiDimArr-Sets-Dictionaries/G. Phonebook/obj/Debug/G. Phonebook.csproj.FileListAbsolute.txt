@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\G. Phonebook\bin\Debug\G.Phonebook.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\G. Phonebook\bin\Debug\G.Phonebook.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\G. Phonebook\bin\Debug\G.Phonebook.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\G. Phonebook\obj\Debug\G.Phonebook.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\G. Phonebook\obj\Debug\G.Phonebook.pdb

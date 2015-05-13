@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\F. CountSymbols\bin\Debug\F.CountSymbols.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\F. CountSymbols\bin\Debug\F.CountSymbols.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\F. CountSymbols\bin\Debug\F.CountSymbols.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\F. CountSymbols\obj\Debug\F.CountSymbols.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\F. CountSymbols\obj\Debug\F.CountSymbols.pdb

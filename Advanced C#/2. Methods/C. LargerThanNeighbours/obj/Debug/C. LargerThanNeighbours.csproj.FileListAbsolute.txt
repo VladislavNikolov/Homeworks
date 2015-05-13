@@ -1,0 +1,8 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\C. LargerThanNeighbours\bin\Debug\C.LargerThanNeighbours.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\C. LargerThanNeighbours\bin\Debug\C.LargerThanNeighbours.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\C. LargerThanNeighbours\bin\Debug\C.LargerThanNeighbours.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\C. LargerThanNeighbours\obj\Debug\C.LargerThanNeighbours.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\C. LargerThanNeighbours\obj\Debug\C.LargerThanNeighbours.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Methods\C. LargerThanNeighbours\bin\Debug\C.LargerThanNeighbours.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Methods\C. LargerThanNeighbours\obj\Debug\C.LargerThanNeighbours.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Methods\C. LargerThanNeighbours\obj\Debug\C.LargerThanNeighbours.pdb

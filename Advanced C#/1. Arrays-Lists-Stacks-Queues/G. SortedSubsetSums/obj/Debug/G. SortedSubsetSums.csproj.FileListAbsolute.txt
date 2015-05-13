@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\G. SortedSubsetSums\bin\Debug\G.SortedSubsetSums.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\G. SortedSubsetSums\bin\Debug\G.SortedSubsetSums.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\G. SortedSubsetSums\bin\Debug\G.SortedSubsetSums.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\G. SortedSubsetSums\obj\Debug\G. SortedSubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\G. SortedSubsetSums\obj\Debug\G.SortedSubsetSums.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\G. SortedSubsetSums\obj\Debug\G.SortedSubsetSums.pdb

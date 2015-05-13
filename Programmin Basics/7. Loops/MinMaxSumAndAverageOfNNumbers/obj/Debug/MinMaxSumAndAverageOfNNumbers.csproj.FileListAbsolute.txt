@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb

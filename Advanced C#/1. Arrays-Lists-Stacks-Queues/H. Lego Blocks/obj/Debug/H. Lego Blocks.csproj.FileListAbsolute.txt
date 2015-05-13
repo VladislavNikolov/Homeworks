@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\H. Lego Blocks\bin\Debug\H.Lego_Blocks.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\H. Lego Blocks\bin\Debug\H.Lego_Blocks.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\H. Lego Blocks\bin\Debug\H.Lego_Blocks.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\H. Lego Blocks\obj\Debug\H. Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\H. Lego Blocks\obj\Debug\H.Lego_Blocks.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\H. Lego Blocks\obj\Debug\H.Lego_Blocks.pdb

@@ -1,0 +1,9 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\A. BiggerNumber\bin\Debug\A.BiggerNumber.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\A. BiggerNumber\bin\Debug\A.BiggerNumber.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\A. BiggerNumber\bin\Debug\A.BiggerNumber.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\A. BiggerNumber\obj\Debug\A. BiggerNumber.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\A. BiggerNumber\obj\Debug\A.BiggerNumber.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\A. BiggerNumber\obj\Debug\A.BiggerNumber.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Methods\A. BiggerNumber\bin\Debug\A.BiggerNumber.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Methods\A. BiggerNumber\obj\Debug\A.BiggerNumber.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Methods\A. BiggerNumber\obj\Debug\A.BiggerNumber.pdb

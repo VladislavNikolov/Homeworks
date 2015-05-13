@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\D. FirstLargerThanNeighbours\bin\Debug\D.FirstLargerThanNeighbours.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\D. FirstLargerThanNeighbours\bin\Debug\D.FirstLargerThanNeighbours.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\D. FirstLargerThanNeighbours\bin\Debug\D.FirstLargerThanNeighbours.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\D. FirstLargerThanNeighbours\obj\Debug\D.FirstLargerThanNeighbours.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\3. Methods\D. FirstLargerThanNeighbours\obj\Debug\D.FirstLargerThanNeighbours.pdb

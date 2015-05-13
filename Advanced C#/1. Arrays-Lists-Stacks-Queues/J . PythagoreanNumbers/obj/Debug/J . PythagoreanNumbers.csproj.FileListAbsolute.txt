@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\J . PythagoreanNumbers\bin\Debug\J.PythagoreanNumbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\J . PythagoreanNumbers\bin\Debug\J.PythagoreanNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\J . PythagoreanNumbers\bin\Debug\J.PythagoreanNumbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\J . PythagoreanNumbers\obj\Debug\J . PythagoreanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\J . PythagoreanNumbers\obj\Debug\J.PythagoreanNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\J . PythagoreanNumbers\obj\Debug\J.PythagoreanNumbers.pdb

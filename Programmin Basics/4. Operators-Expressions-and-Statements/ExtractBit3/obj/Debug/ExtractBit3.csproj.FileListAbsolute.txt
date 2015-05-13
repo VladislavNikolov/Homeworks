@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\ExtractBit3\bin\Debug\ExtractBit3.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\ExtractBit3\bin\Debug\ExtractBit3.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\ExtractBit3\obj\Debug\ExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\ExtractBit3\obj\Debug\ExtractBit3.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\ExtractBit3\obj\Debug\ExtractBit3.pdb

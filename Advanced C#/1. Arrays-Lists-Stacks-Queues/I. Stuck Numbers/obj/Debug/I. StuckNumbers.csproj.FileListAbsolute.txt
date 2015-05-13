@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\I. Stuck Numbers\bin\Debug\I.Stuck_Numbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\I. Stuck Numbers\obj\Debug\I.Stuck_Numbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\I. Stuck Numbers\obj\Debug\I.Stuck_Numbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\I. Stuck Numbers\bin\Debug\I.Stuck_Numbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\I. Stuck Numbers\bin\Debug\I.Stuck_Numbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\I. Stuck Numbers\obj\Debug\I. StuckNumbers.csprojResolveAssemblyReference.cache

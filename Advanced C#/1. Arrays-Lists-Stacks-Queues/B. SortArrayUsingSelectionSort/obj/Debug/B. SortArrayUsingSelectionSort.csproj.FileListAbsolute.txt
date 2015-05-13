@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\B. SortArrayUsingSelectionSort\bin\Debug\B.SortArrayUsingSelectionSort.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\B. SortArrayUsingSelectionSort\bin\Debug\B.SortArrayUsingSelectionSort.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\B. SortArrayUsingSelectionSort\bin\Debug\B.SortArrayUsingSelectionSort.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\B. SortArrayUsingSelectionSort\obj\Debug\B. SortArrayUsingSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\B. SortArrayUsingSelectionSort\obj\Debug\B.SortArrayUsingSelectionSort.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\1. Arrays-Lists-Stacks-Queues\B. SortArrayUsingSelectionSort\obj\Debug\B.SortArrayUsingSelectionSort.pdb
