@@ -4,8 +4,8 @@ class CountSubstringOccurrences
 {
     static void Main()
     {
-        string text = Console.ReadLine().ToLower();//Input to lower to ignore character casing
-        string word = Console.ReadLine().ToLower();//Input to lower to ignore character casing
+        string text = Console.ReadLine().ToLower();//Input ToLower() to ignore character casing
+        string word = Console.ReadLine().ToLower();//Input ToLower() to ignore character casing
         int counter = 0;
         int startIndex = 0;
 

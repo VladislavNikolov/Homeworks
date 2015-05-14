@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\E. UnicodeCharacters\bin\Debug\E.UnicodeCharacters.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\E. UnicodeCharacters\bin\Debug\E.UnicodeCharacters.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\E. UnicodeCharacters\bin\Debug\E.UnicodeCharacters.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\E. UnicodeCharacters\obj\Debug\E. UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\E. UnicodeCharacters\obj\Debug\E.UnicodeCharacters.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\E. UnicodeCharacters\obj\Debug\E.UnicodeCharacters.pdb
