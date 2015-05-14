@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\C. CountSubstringOccurrences\bin\Debug\C.CountSubstringOccurrences.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\C. CountSubstringOccurrences\bin\Debug\C.CountSubstringOccurrences.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\C. CountSubstringOccurrences\bin\Debug\C.CountSubstringOccurrences.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\C. CountSubstringOccurrences\obj\Debug\C. CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\C. CountSubstringOccurrences\obj\Debug\C.CountSubstringOccurrences.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\C. CountSubstringOccurrences\obj\Debug\C.CountSubstringOccurrences.pdb
