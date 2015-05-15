@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb

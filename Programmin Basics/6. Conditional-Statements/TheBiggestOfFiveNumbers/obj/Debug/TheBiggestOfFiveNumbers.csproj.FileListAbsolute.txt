@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb

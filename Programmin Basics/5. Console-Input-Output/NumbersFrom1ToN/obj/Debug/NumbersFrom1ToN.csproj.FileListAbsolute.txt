@@ -1,6 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.csprojResolveAssemblyReference.cache
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

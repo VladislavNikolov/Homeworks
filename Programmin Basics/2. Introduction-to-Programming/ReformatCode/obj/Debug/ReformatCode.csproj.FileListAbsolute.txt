@@ -1,5 +1,0 @@
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.pdb
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.exe
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.pdb

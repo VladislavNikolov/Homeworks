@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\5. Console-Input-Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

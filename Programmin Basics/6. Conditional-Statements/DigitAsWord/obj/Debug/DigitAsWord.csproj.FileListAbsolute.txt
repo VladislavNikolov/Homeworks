@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\DigitAsWord\bin\Debug\DigitAsWord.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\DigitAsWord\bin\Debug\DigitAsWord.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\DigitAsWord\obj\Debug\DigitAsWord.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\DigitAsWord\obj\Debug\DigitAsWord.pdb

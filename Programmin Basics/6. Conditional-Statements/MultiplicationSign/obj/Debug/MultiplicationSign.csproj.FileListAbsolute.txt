@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\MultiplicationSign\bin\Debug\MultiplicationSign.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\MultiplicationSign\obj\Debug\MultiplicationSign.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Conditional-Statements\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Operators-Expressions-and-Statements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

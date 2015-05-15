@@ -1,5 +1,0 @@
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\Calculate1PlusEtc\bin\Debug\Calculate1PlusEtc.exe.config
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\Calculate1PlusEtc\bin\Debug\Calculate1PlusEtc.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\Calculate1PlusEtc\bin\Debug\Calculate1PlusEtc.pdb
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\Calculate1PlusEtc\obj\Debug\Calculate1PlusEtc.exe
-C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Loops\Calculate1PlusEtc\obj\Debug\Calculate1PlusEtc.pdb

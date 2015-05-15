@@ -1,5 +1,0 @@
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.exe
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateTime\obj\Debug\CurrentDateTime.exe
-c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
