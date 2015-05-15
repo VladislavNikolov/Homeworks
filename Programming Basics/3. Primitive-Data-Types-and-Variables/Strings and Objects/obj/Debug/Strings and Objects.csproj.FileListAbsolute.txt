@@ -1,0 +1,5 @@
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Strings and Objects\obj\Debug\Strings and Objects.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Strings and Objects\obj\Debug\Strings and Objects.pdb

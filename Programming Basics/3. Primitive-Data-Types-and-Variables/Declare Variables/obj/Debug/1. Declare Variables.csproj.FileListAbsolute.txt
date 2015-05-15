@@ -1,0 +1,9 @@
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Declare Variables\bin\Debug\Declare Variables.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Declare Variables\obj\Debug\Declare Variables.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Declare Variables\obj\Debug\Declare Variables.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Declare Variables\bin\Debug\Declare Variables.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Declare Variables\obj\Debug\Declare Variables.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Declare Variables\obj\Debug\Declare Variables.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Declare Variables\bin\Debug\Declare Variables.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Declare Variables\bin\Debug\Declare Variables.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\Declare Variables\obj\Debug\1. Declare Variables.csprojResolveAssemblyReference.cache

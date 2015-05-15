@@ -1,0 +1,10 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.pdb

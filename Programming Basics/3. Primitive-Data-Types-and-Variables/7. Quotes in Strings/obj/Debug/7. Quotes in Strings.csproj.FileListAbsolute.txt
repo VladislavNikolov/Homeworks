@@ -1,0 +1,12 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\7. Quotes in Strings\obj\Debug\7. Quotes in Strings.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\7. Quotes in Strings\obj\Debug\_7.Quotes_in_Strings.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\7. Quotes in Strings\obj\Debug\_7.Quotes_in_Strings.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\7. Quotes in Strings\obj\Debug\_7.Quotes_in_Strings.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\7. Quotes in Strings\obj\Debug\_7.Quotes_in_Strings.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\7. Quotes in Strings\obj\Debug\7. Quotes in Strings.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.pdb

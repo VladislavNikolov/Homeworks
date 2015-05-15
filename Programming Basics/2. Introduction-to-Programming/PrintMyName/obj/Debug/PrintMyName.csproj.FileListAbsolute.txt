@@ -1,0 +1,8 @@
+c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Programmin Basics\2. Introduction-to-Programming\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Programmin Basics\2. Introduction-to-Programming\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Programmin Basics\2. Introduction-to-Programming\PrintMyName\obj\Debug\PrintMyName.pdb
