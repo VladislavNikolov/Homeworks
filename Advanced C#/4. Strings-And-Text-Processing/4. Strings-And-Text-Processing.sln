@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D. TextFilter", "D. TextFil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E. UnicodeCharacters", "E. UnicodeCharacters\E. UnicodeCharacters.csproj", "{69DF058C-5AA5-4762-8744-E009B29F7FAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F. Palindromes", "F. Palindromes\F. Palindromes.csproj", "{C073207D-AF1B-4648-AB2B-27858FFC94C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G. LettersChangeNumbers", "G. LettersChangeNumbers\G. LettersChangeNumbers.csproj", "{2AAD6411-242D-4B97-8AC2-32D309416748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{69DF058C-5AA5-4762-8744-E009B29F7FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69DF058C-5AA5-4762-8744-E009B29F7FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69DF058C-5AA5-4762-8744-E009B29F7FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C073207D-AF1B-4648-AB2B-27858FFC94C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C073207D-AF1B-4648-AB2B-27858FFC94C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C073207D-AF1B-4648-AB2B-27858FFC94C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C073207D-AF1B-4648-AB2B-27858FFC94C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AAD6411-242D-4B97-8AC2-32D309416748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AAD6411-242D-4B97-8AC2-32D309416748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AAD6411-242D-4B97-8AC2-32D309416748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AAD6411-242D-4B97-8AC2-32D309416748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

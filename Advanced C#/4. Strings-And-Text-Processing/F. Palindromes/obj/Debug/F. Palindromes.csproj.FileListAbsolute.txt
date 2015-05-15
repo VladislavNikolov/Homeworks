@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\F. Palindromes\bin\Debug\F.Palindromes.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\F. Palindromes\bin\Debug\F.Palindromes.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\F. Palindromes\bin\Debug\F.Palindromes.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\F. Palindromes\obj\Debug\F. Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\F. Palindromes\obj\Debug\F.Palindromes.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\F. Palindromes\obj\Debug\F.Palindromes.pdb

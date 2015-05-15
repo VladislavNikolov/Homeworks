@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\G. LettersChangeNumbers\bin\Debug\G.LettersChangeNumbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\G. LettersChangeNumbers\bin\Debug\G.LettersChangeNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\G. LettersChangeNumbers\bin\Debug\G.LettersChangeNumbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\G. LettersChangeNumbers\obj\Debug\G. LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\G. LettersChangeNumbers\obj\Debug\G.LettersChangeNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\G. LettersChangeNumbers\obj\Debug\G.LettersChangeNumbers.pdb
