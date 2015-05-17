@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\B. ReplaceAnchorTag\bin\Debug\B.ReplaceAnchorTag.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\B. ReplaceAnchorTag\bin\Debug\B.ReplaceAnchorTag.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\B. ReplaceAnchorTag\bin\Debug\B.ReplaceAnchorTag.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\B. ReplaceAnchorTag\obj\Debug\B. ReplaceAnchorTag.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\B. ReplaceAnchorTag\obj\Debug\B.ReplaceAnchorTag.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\B. ReplaceAnchorTag\obj\Debug\B.ReplaceAnchorTag.pdb

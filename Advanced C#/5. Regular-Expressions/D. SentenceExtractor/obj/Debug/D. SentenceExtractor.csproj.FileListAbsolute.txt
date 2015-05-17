@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\D. SentenceExtractor\bin\Debug\D.SentenceExtractor.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\D. SentenceExtractor\bin\Debug\D.SentenceExtractor.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\D. SentenceExtractor\bin\Debug\D.SentenceExtractor.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\D. SentenceExtractor\obj\Debug\D.SentenceExtractor.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\D. SentenceExtractor\obj\Debug\D.SentenceExtractor.pdb

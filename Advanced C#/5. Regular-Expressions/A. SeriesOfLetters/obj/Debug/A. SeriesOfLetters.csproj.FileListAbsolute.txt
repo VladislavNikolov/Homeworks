@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\A. SeriesOfLetters\bin\Debug\A.SeriesOfLetters.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\A. SeriesOfLetters\bin\Debug\A.SeriesOfLetters.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\A. SeriesOfLetters\bin\Debug\A.SeriesOfLetters.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\A. SeriesOfLetters\obj\Debug\A. SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\A. SeriesOfLetters\obj\Debug\A.SeriesOfLetters.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\A. SeriesOfLetters\obj\Debug\A.SeriesOfLetters.pdb
