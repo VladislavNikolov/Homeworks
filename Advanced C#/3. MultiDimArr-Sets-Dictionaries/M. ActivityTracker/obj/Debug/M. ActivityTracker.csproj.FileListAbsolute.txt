@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\M. ActivityTracker\bin\Debug\M.ActivityTracker.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\M. ActivityTracker\bin\Debug\M.ActivityTracker.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\M. ActivityTracker\bin\Debug\M.ActivityTracker.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\M. ActivityTracker\obj\Debug\M. ActivityTracker.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\M. ActivityTracker\obj\Debug\M.ActivityTracker.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\M. ActivityTracker\obj\Debug\M.ActivityTracker.pdb

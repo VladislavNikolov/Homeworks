@@ -3,3 +3,6 @@ C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Mu
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\H. NightLife\bin\Debug\H.NightLife.pdb
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\H. NightLife\obj\Debug\H.NightLife.exe
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\H. NightLife\obj\Debug\H.NightLife.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\H. NightLife\bin\Debug\H.NightLife.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\H. NightLife\obj\Debug\H.NightLife.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\H. NightLife\obj\Debug\H.NightLife.pdb
