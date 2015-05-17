@@ -4,3 +4,6 @@ C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Mu
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\I. TerroristsWin!\obj\Debug\I. TerroristsWin.csprojResolveAssemblyReference.cache
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\I. TerroristsWin!\obj\Debug\I.TerroristsWin_.exe
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\I. TerroristsWin!\obj\Debug\I.TerroristsWin_.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\I. TerroristsWin!\bin\Debug\I.TerroristsWin_.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\I. TerroristsWin!\obj\Debug\I.TerroristsWin_.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\I. TerroristsWin!\obj\Debug\I.TerroristsWin_.pdb
