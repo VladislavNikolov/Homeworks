@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\O. VladkoNotebook\bin\Debug\O.VladkoNotebook.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\O. VladkoNotebook\bin\Debug\O.VladkoNotebook.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\O. VladkoNotebook\bin\Debug\O.VladkoNotebook.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\O. VladkoNotebook\obj\Debug\O. VladkoNotebook.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\O. VladkoNotebook\obj\Debug\O.VladkoNotebook.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\O. VladkoNotebook\obj\Debug\O.VladkoNotebook.pdb

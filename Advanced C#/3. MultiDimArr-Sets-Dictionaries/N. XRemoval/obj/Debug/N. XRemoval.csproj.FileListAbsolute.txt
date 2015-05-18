@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\N. XRemoval\bin\Debug\N.XRemoval.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\N. XRemoval\bin\Debug\N.XRemoval.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\N. XRemoval\bin\Debug\N.XRemoval.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\N. XRemoval\obj\Debug\N. XRemoval.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\N. XRemoval\obj\Debug\N.XRemoval.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\N. XRemoval\obj\Debug\N.XRemoval.pdb

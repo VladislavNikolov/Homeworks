@@ -3,3 +3,6 @@ C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Mu
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\A. FillTheMatrix\bin\Debug\A.FillTheMatrix.pdb
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\A. FillTheMatrix\obj\Debug\A.FillTheMatrix.exe
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\A. FillTheMatrix\obj\Debug\A.FillTheMatrix.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\A. FillTheMatrix\bin\Debug\A.FillTheMatrix.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\A. FillTheMatrix\obj\Debug\A.FillTheMatrix.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\A. FillTheMatrix\obj\Debug\A.FillTheMatrix.pdb

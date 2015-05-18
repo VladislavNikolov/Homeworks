@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K. StringMatrixRotation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M. ActivityTracker", "M. ActivityTracker\M. ActivityTracker.csproj", "{2334D85E-7A54-4AEE-9CAC-E60B30FB1D63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N. XRemoval", "N. XRemoval\N. XRemoval.csproj", "{9CC4BD47-7CA4-4727-9E0F-E44D633F8280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. VladkoNotebook", "O. VladkoNotebook\O. VladkoNotebook.csproj", "{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{2334D85E-7A54-4AEE-9CAC-E60B30FB1D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2334D85E-7A54-4AEE-9CAC-E60B30FB1D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2334D85E-7A54-4AEE-9CAC-E60B30FB1D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC4BD47-7CA4-4727-9E0F-E44D633F8280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC4BD47-7CA4-4727-9E0F-E44D633F8280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC4BD47-7CA4-4727-9E0F-E44D633F8280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC4BD47-7CA4-4727-9E0F-E44D633F8280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
