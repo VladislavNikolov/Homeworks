@@ -1,1 +1,7 @@
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\D. SequenceInMatrix\bin\Debug\D.SequenceInMatrix.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\D. SequenceInMatrix\bin\Debug\D.SequenceInMatrix.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\D. SequenceInMatrix\bin\Debug\D.SequenceInMatrix.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\D. SequenceInMatrix\bin\Debug\D.SequenceInMatrix.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\D. SequenceInMatrix\obj\Debug\D. SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\D. SequenceInMatrix\obj\Debug\D.SequenceInMatrix.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\D. SequenceInMatrix\obj\Debug\D.SequenceInMatrix.pdb

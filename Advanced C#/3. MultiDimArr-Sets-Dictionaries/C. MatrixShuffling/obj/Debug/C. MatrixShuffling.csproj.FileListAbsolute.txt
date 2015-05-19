@@ -3,3 +3,9 @@ C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. Mu
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\bin\Debug\C.MatrixShuffling.pdb
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\obj\Debug\C.MatrixShuffling.exe
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Advanced C#\Homeworks\2. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\obj\Debug\C.MatrixShuffling.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\bin\Debug\C.MatrixShuffling.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\bin\Debug\C.MatrixShuffling.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\bin\Debug\C.MatrixShuffling.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\obj\Debug\C. MatrixShuffling.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\obj\Debug\C.MatrixShuffling.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\3. MultiDimArr-Sets-Dictionaries\C. MatrixShuffling\obj\Debug\C.MatrixShuffling.pdb

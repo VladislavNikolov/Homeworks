@@ -86,9 +86,10 @@ class VladkoNotebook
         }
 
         //Sort Opponents and get ranks
+        StringComparer invCmp = StringComparer.Ordinal;
         foreach (var pair in notebook)
         {
-            notebook[pair.Key]["opponents"].Sort();
+            notebook[pair.Key]["opponents"].Sort(invCmp);
             decimal rank = notebook[pair.Key]["wins"] / notebook[pair.Key]["losses"];
             notebook[pair.Key]["rank"] = rank.ToString("F2");
             notebook[pair.Key].Remove("wins");
