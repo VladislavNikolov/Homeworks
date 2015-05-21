@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\H. LittleJohn\bin\Debug\H.LittleJohn.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\H. LittleJohn\bin\Debug\H.LittleJohn.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\H. LittleJohn\bin\Debug\H.LittleJohn.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\H. LittleJohn\obj\Debug\H. LittleJohn.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\H. LittleJohn\obj\Debug\H.LittleJohn.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\4. Strings-And-Text-Processing\H. LittleJohn\obj\Debug\H.LittleJohn.pdb
