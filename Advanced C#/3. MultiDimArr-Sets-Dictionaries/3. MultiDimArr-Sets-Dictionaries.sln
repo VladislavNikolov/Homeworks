@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N. XRemoval", "N. XRemoval\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. VladkoNotebook", "O. VladkoNotebook\O. VladkoNotebook.csproj", "{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P. TextGravity", "P. TextGravity\P. TextGravity.csproj", "{7B1CD628-74F7-4923-BCB4-5060C26E3414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q. ClearingCommands", "Q. ClearingCommands\Q. ClearingCommands.csproj", "{4AC0F927-E2BA-4679-B307-C87192656DA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4AE0895-9EC3-49E4-8EDE-5C98ACC99A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1CD628-74F7-4923-BCB4-5060C26E3414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1CD628-74F7-4923-BCB4-5060C26E3414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1CD628-74F7-4923-BCB4-5060C26E3414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1CD628-74F7-4923-BCB4-5060C26E3414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC0F927-E2BA-4679-B307-C87192656DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC0F927-E2BA-4679-B307-C87192656DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC0F927-E2BA-4679-B307-C87192656DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC0F927-E2BA-4679-B307-C87192656DA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
