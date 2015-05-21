@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security;
 
 class TextGravity
 {
@@ -72,7 +73,8 @@ class TextGravity
             Console.Write("<tr>");
             for (int j = 0; j < matrixCols; j++)
             {
-                Console.Write("<td>{0}</td>", matrix[i, j]);
+                string result = SecurityElement.Escape(matrix[i, j].ToString());
+                Console.Write("<td>{0}</td>", result);
             }
             Console.Write("</tr>");
         }

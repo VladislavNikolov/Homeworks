@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security;
 
 class ClearingCommands
 {
@@ -73,18 +74,9 @@ class ClearingCommands
             Console.Write("<p>");
             for (int col = 0; col < matrix[row].Length; col++)
             {
-                if (matrix[row][col] == '>')
-                {
-                    Console.Write("&gt;");
-                }
-                else if (matrix[row][col] == '<')
-                {
-                    Console.Write("&lt;");
-                }
-                else
-                {
-                    Console.Write(matrix[row][col]);
-                }   
+                string result = SecurityElement.Escape(matrix[row][col].ToString());
+                Console.Write(result);
+ 
             }
             Console.Write("</p>");
             Console.WriteLine();
