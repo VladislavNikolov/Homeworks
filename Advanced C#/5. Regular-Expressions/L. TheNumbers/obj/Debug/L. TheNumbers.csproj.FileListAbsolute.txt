@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\L. TheNumbers\bin\Debug\L.TheNumbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\L. TheNumbers\obj\Debug\L. TheNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\L. TheNumbers\bin\Debug\L.TheNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\L. TheNumbers\bin\Debug\L.TheNumbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\L. TheNumbers\obj\Debug\L.TheNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\L. TheNumbers\obj\Debug\L.TheNumbers.pdb

@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J. UppercaseWords", "J. Upp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G. QueryMess", "G. QueryMess\G. QueryMess.csproj", "{43AAAB3E-AE27-4D97-A873-4827E4E9F026}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K. PhoneNumbers", "K. PhoneNumbers\K. PhoneNumbers.csproj", "{8ED7C399-CE7E-4FD4-9141-3B329B184CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L. TheNumbers", "L. TheNumbers\L. TheNumbers.csproj", "{5165968D-AA39-443A-B71C-B71B92EC7246}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{43AAAB3E-AE27-4D97-A873-4827E4E9F026}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43AAAB3E-AE27-4D97-A873-4827E4E9F026}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43AAAB3E-AE27-4D97-A873-4827E4E9F026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED7C399-CE7E-4FD4-9141-3B329B184CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED7C399-CE7E-4FD4-9141-3B329B184CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED7C399-CE7E-4FD4-9141-3B329B184CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED7C399-CE7E-4FD4-9141-3B329B184CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5165968D-AA39-443A-B71C-B71B92EC7246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5165968D-AA39-443A-B71C-B71B92EC7246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5165968D-AA39-443A-B71C-B71B92EC7246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5165968D-AA39-443A-B71C-B71B92EC7246}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

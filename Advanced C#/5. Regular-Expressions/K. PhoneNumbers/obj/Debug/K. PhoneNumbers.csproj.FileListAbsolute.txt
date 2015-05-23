@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\K. PhoneNumbers\bin\Debug\K.PhoneNumbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\K. PhoneNumbers\bin\Debug\K.PhoneNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\K. PhoneNumbers\bin\Debug\K.PhoneNumbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\K. PhoneNumbers\obj\Debug\K. PhoneNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\K. PhoneNumbers\obj\Debug\K.PhoneNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\K. PhoneNumbers\obj\Debug\K.PhoneNumbers.pdb
