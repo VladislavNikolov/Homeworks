@@ -35,7 +35,7 @@ class WordCount
                         writer.WriteLine("{0} - {1}", pair.Key, pair.Value);
                         Console.WriteLine("{0} - {1}", pair.Key, pair.Value);
                     }
-                    Console.WriteLine(@"Check ""..\..\C. WordCount\bin\Debug"" for results.txt");
+                    Console.WriteLine(@"Check ""C. WordCount\bin\Debug"" for results.txt");
                 }
             }
         }

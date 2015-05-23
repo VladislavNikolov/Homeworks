@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\F. ZippingSlicedFiles\bin\Debug\F.ZippingSlicedFiles.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\F. ZippingSlicedFiles\bin\Debug\F.ZippingSlicedFiles.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\F. ZippingSlicedFiles\bin\Debug\F.ZippingSlicedFiles.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\F. ZippingSlicedFiles\obj\Debug\F.ZippingSlicedFiles.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\F. ZippingSlicedFiles\obj\Debug\F.ZippingSlicedFiles.pdb

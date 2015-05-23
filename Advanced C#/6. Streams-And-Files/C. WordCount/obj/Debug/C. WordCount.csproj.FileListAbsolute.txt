@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\C. WordCount\bin\Debug\C.WordCount.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\C. WordCount\bin\Debug\C.WordCount.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\C. WordCount\bin\Debug\C.WordCount.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\C. WordCount\obj\Debug\C. WordCount.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\C. WordCount\obj\Debug\C.WordCount.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\C. WordCount\obj\Debug\C.WordCount.pdb

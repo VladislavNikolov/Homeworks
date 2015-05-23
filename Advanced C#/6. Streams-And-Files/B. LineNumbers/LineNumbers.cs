@@ -20,6 +20,6 @@ class LineNumbers
                 }
             }
         }
-        Console.WriteLine(@"Check ""..\..\B. LineNumbers\bin\Debug"" for Output.txt");
+        Console.WriteLine(@"Check ""B. LineNumbers\bin\Debug"" for Output.txt");
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\A. OddLines\bin\Debug\A.OddLines.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\A. OddLines\bin\Debug\A.OddLines.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\A. OddLines\bin\Debug\A.OddLines.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\A. OddLines\obj\Debug\A. OddLines.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\A. OddLines\obj\Debug\A.OddLines.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\A. OddLines\obj\Debug\A.OddLines.pdb

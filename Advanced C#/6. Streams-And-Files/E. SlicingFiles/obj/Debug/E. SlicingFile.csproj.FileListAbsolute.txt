@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\E. SlicingFiles\bin\Debug\E.SlicingFiles.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\E. SlicingFiles\bin\Debug\E.SlicingFiles.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\E. SlicingFiles\bin\Debug\E.SlicingFiles.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\E. SlicingFiles\obj\Debug\E. SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\E. SlicingFiles\obj\Debug\E.SlicingFiles.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\6. Streams-And-Files\E. SlicingFiles\obj\Debug\E.SlicingFiles.pdb
