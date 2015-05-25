@@ -1,0 +1,1 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\bin\Debug\G.FilterStudentsByPhone.exe.config
