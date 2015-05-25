@@ -1,0 +1,8 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\bin\Debug\F.FilterStudentsByEmailDomain.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\bin\Debug\F.FilterStudentsByEmailDomain.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\bin\Debug\F.FilterStudentsByEmailDomain.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\bin\Debug\A.ClassStudent.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\bin\Debug\A.ClassStudent.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\obj\Debug\F. FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\obj\Debug\F.FilterStudentsByEmailDomain.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\F. FilterStudentsByEmailDomain\obj\Debug\F.FilterStudentsByEmailDomain.pdb
