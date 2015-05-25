@@ -1,0 +1,8 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\bin\Debug\E.SortStudents.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\bin\Debug\E.SortStudents.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\bin\Debug\E.SortStudents.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\bin\Debug\A.ClassStudent.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\bin\Debug\A.ClassStudent.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\obj\Debug\E. SortStudents.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\obj\Debug\E.SortStudents.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\E. SortStudents\obj\Debug\E.SortStudents.pdb
