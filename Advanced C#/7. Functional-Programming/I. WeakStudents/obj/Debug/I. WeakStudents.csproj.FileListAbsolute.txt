@@ -1,0 +1,7 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\I. WeakStudents\bin\Debug\I.WeakStudents.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\I. WeakStudents\bin\Debug\I.WeakStudents.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\I. WeakStudents\bin\Debug\I.WeakStudents.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\I. WeakStudents\bin\Debug\A.ClassStudent.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\I. WeakStudents\bin\Debug\A.ClassStudent.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\I. WeakStudents\obj\Debug\I.WeakStudents.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\I. WeakStudents\obj\Debug\I.WeakStudents.pdb

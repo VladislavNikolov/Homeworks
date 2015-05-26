@@ -1,0 +1,7 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\H. ExcellentStudents\bin\Debug\H.ExcellentStudents.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\H. ExcellentStudents\bin\Debug\H.ExcellentStudents.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\H. ExcellentStudents\bin\Debug\H.ExcellentStudents.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\H. ExcellentStudents\bin\Debug\A.ClassStudent.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\H. ExcellentStudents\bin\Debug\A.ClassStudent.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\H. ExcellentStudents\obj\Debug\H.ExcellentStudents.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\H. ExcellentStudents\obj\Debug\H.ExcellentStudents.pdb

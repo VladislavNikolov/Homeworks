@@ -1,0 +1,7 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\J. StudentsEnrolledIn2014\bin\Debug\J.StudentsEnrolledIn2014.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\J. StudentsEnrolledIn2014\bin\Debug\J.StudentsEnrolledIn2014.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\J. StudentsEnrolledIn2014\bin\Debug\J.StudentsEnrolledIn2014.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\J. StudentsEnrolledIn2014\bin\Debug\A.ClassStudent.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\J. StudentsEnrolledIn2014\bin\Debug\A.ClassStudent.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\J. StudentsEnrolledIn2014\obj\Debug\J.StudentsEnrolledIn2014.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\J. StudentsEnrolledIn2014\obj\Debug\J.StudentsEnrolledIn2014.pdb

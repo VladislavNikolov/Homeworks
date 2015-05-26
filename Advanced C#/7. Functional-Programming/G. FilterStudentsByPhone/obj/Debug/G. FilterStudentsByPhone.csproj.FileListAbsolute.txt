@@ -1,1 +1,8 @@
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\bin\Debug\G.FilterStudentsByPhone.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\bin\Debug\G.FilterStudentsByPhone.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\bin\Debug\G.FilterStudentsByPhone.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\bin\Debug\A.ClassStudent.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\bin\Debug\A.ClassStudent.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\obj\Debug\G. FilterStudentsByPhone.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\obj\Debug\G.FilterStudentsByPhone.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\7. Functional-Programming\G. FilterStudentsByPhone\obj\Debug\G.FilterStudentsByPhone.pdb
