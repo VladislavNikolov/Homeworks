@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L. TheNumbers", "L. TheNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M. BiggestTableRow", "M. BiggestTableRow\M. BiggestTableRow.csproj", "{0A2B2519-9A14-409C-9BF8-155D292295A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N. PINValidation", "N. PINValidation\N. PINValidation.csproj", "{BB633CB0-A387-4710-99CB-8D359339C747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0A2B2519-9A14-409C-9BF8-155D292295A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2B2519-9A14-409C-9BF8-155D292295A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2B2519-9A14-409C-9BF8-155D292295A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB633CB0-A387-4710-99CB-8D359339C747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB633CB0-A387-4710-99CB-8D359339C747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB633CB0-A387-4710-99CB-8D359339C747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB633CB0-A387-4710-99CB-8D359339C747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

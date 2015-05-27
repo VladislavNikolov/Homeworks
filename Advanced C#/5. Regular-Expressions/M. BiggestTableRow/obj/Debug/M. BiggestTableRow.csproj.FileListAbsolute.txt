@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\M. BiggestTableRow\bin\Debug\M.BiggestTableRow.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\M. BiggestTableRow\bin\Debug\M.BiggestTableRow.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\M. BiggestTableRow\bin\Debug\M.BiggestTableRow.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\M. BiggestTableRow\obj\Debug\M. BiggestTableRow.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\M. BiggestTableRow\obj\Debug\M.BiggestTableRow.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\M. BiggestTableRow\obj\Debug\M.BiggestTableRow.pdb
