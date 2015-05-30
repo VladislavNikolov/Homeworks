@@ -1,0 +1,1 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\I. SemanticHTML\bin\Debug\I.SemanticHTML.exe.config

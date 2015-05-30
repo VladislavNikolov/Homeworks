@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P. OhMyGirl", "P. OhMyGirl\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H. UseYourChainsBuddy", "H. UseYourChainsBuddy\H. UseYourChainsBuddy.csproj", "{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F. ExtractHyperlinks", "F. ExtractHyperlinks\F. ExtractHyperlinks.csproj", "{C086C16C-D8B4-4E93-BC80-6C4923345AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I. SemanticHTML", "I. SemanticHTML\I. SemanticHTML.csproj", "{2BE431C7-7191-4002-A1C4-65609364EE2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C086C16C-D8B4-4E93-BC80-6C4923345AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C086C16C-D8B4-4E93-BC80-6C4923345AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C086C16C-D8B4-4E93-BC80-6C4923345AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C086C16C-D8B4-4E93-BC80-6C4923345AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE431C7-7191-4002-A1C4-65609364EE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE431C7-7191-4002-A1C4-65609364EE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE431C7-7191-4002-A1C4-65609364EE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE431C7-7191-4002-A1C4-65609364EE2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
