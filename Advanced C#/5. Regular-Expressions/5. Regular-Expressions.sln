@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. ChatLogger", "O. ChatLog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P. OhMyGirl", "P. OhMyGirl\P. OhMyGirl.csproj", "{8BABD308-1C13-4F38-B290-6F8458DEF964}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H. UseYourChainsBuddy", "H. UseYourChainsBuddy\H. UseYourChainsBuddy.csproj", "{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8BABD308-1C13-4F38-B290-6F8458DEF964}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BABD308-1C13-4F38-B290-6F8458DEF964}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BABD308-1C13-4F38-B290-6F8458DEF964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5670ED49-62E5-4EFD-974F-ED1A7D1365E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
