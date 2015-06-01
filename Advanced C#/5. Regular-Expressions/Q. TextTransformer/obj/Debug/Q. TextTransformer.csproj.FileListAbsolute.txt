@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\Q. TextTransformer\bin\Debug\Q.TextTransformer.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\Q. TextTransformer\bin\Debug\Q.TextTransformer.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\Q. TextTransformer\bin\Debug\Q.TextTransformer.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\Q. TextTransformer\obj\Debug\Q.TextTransformer.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\5. Regular-Expressions\Q. TextTransformer\obj\Debug\Q.TextTransformer.pdb
