@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S. Parachute", "S. Parachut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. ITVillage", "T. ITVillage\T. ITVillage.csproj", "{8B9EA1AF-E089-4CDC-953F-276A609BE764}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. TargetPractice", "U. TargetPractice\U. TargetPractice.csproj", "{706123CE-2AF4-4118-BA89-2302141D554A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V. OlympicsAreComing", "V. OlympicsAreComing\V. OlympicsAreComing.csproj", "{212EB5C9-2E47-4315-962F-A403605FE6EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{8B9EA1AF-E089-4CDC-953F-276A609BE764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9EA1AF-E089-4CDC-953F-276A609BE764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9EA1AF-E089-4CDC-953F-276A609BE764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706123CE-2AF4-4118-BA89-2302141D554A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706123CE-2AF4-4118-BA89-2302141D554A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706123CE-2AF4-4118-BA89-2302141D554A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706123CE-2AF4-4118-BA89-2302141D554A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212EB5C9-2E47-4315-962F-A403605FE6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212EB5C9-2E47-4315-962F-A403605FE6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212EB5C9-2E47-4315-962F-A403605FE6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212EB5C9-2E47-4315-962F-A403605FE6EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
