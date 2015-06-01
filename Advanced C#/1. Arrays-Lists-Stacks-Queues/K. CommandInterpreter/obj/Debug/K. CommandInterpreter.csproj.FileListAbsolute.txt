@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\1. Arrays-Lists-Stacks-Queues\K. CommandInterpreter\bin\Debug\K.CommandInterpreter.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\1. Arrays-Lists-Stacks-Queues\K. CommandInterpreter\bin\Debug\K.CommandInterpreter.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\1. Arrays-Lists-Stacks-Queues\K. CommandInterpreter\bin\Debug\K.CommandInterpreter.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\1. Arrays-Lists-Stacks-Queues\K. CommandInterpreter\obj\Debug\K. CommandInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\1. Arrays-Lists-Stacks-Queues\K. CommandInterpreter\obj\Debug\K.CommandInterpreter.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Advanced C#\1. Arrays-Lists-Stacks-Queues\K. CommandInterpreter\obj\Debug\K.CommandInterpreter.pdb
