@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\B. LaptopShop\bin\Debug\B.LaptopShop.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\B. LaptopShop\obj\Debug\B. LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\B. LaptopShop\bin\Debug\B.LaptopShop.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\B. LaptopShop\bin\Debug\B.LaptopShop.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\B. LaptopShop\obj\Debug\B.LaptopShop.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\B. LaptopShop\obj\Debug\B.LaptopShop.pdb

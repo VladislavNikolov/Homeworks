@@ -6,15 +6,16 @@ class Person
     private int age;
     private string email;
 
+    public Person(string name, int age)
+        : this(name, age, null)
+    {
+    }
+
     public Person(string name, int age, string email)
     {
         this.Name = name;
         this.Age = age;
         this.Email = email;
-    }
-
-    public Person(string name, int age) : this(name, age, null)
-    { 
     }
 
     public string Name

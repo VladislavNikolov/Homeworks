@@ -4,3 +4,6 @@ C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented P
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\Defining-Classes\A. Persons\bin\Debug\A.Persons.pdb
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\Defining-Classes\A. Persons\obj\Debug\A.Persons.exe
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\Defining-Classes\A. Persons\obj\Debug\A.Persons.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\A. Persons\bin\Debug\A.Persons.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\A. Persons\obj\Debug\A.Persons.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\A. Persons\obj\Debug\A.Persons.pdb
