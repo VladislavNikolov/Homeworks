@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\C. PCCatalog\bin\Debug\C.PCCatalog.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\C. PCCatalog\obj\Debug\C. PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\C. PCCatalog\bin\Debug\C.PCCatalog.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\C. PCCatalog\bin\Debug\C.PCCatalog.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\C. PCCatalog\obj\Debug\C.PCCatalog.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\1. Defining-Classes\C. PCCatalog\obj\Debug\C.PCCatalog.pdb
