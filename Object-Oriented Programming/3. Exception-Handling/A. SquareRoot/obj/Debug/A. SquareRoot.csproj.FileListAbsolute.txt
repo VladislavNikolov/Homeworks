@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\A. SquareRoot\bin\Debug\A.SquareRoot.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\A. SquareRoot\bin\Debug\A.SquareRoot.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\A. SquareRoot\bin\Debug\A.SquareRoot.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\A. SquareRoot\obj\Debug\A. SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\A. SquareRoot\obj\Debug\A.SquareRoot.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\A. SquareRoot\obj\Debug\A.SquareRoot.pdb

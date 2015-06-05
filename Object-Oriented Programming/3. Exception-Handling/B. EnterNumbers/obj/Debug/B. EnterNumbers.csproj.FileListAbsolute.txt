@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\B. EnterNumbers\bin\Debug\B.EnterNumbers.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\B. EnterNumbers\bin\Debug\B.EnterNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\B. EnterNumbers\bin\Debug\B.EnterNumbers.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\B. EnterNumbers\obj\Debug\B.EnterNumbers.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\3. Exception-Handling\B. EnterNumbers\obj\Debug\B.EnterNumbers.pdb
