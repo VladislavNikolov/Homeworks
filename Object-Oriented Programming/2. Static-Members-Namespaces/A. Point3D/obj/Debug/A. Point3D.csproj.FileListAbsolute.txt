@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\A. Point3D\bin\Debug\A.Point3D.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\A. Point3D\bin\Debug\A.Point3D.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\A. Point3D\bin\Debug\A.Point3D.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\A. Point3D\obj\Debug\A. Point3D.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\A. Point3D\obj\Debug\A.Point3D.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\A. Point3D\obj\Debug\A.Point3D.pdb

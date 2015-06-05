@@ -1,0 +1,8 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\bin\Debug\B.DistanceCalculator.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\bin\Debug\B.DistanceCalculator.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\bin\Debug\B.DistanceCalculator.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\bin\Debug\A.Point3D.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\bin\Debug\A.Point3D.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\obj\Debug\B. DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\obj\Debug\B.DistanceCalculator.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\B. DistanceCalculator\obj\Debug\B.DistanceCalculator.pdb
