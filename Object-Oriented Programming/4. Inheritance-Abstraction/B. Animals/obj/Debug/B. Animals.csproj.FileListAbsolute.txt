@@ -1,0 +1,1 @@
+D:\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\B. Animals\bin\Debug\B.Animals.exe.config
