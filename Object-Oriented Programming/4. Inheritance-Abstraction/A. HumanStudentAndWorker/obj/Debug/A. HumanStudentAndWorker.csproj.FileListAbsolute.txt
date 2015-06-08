@@ -4,3 +4,6 @@ C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented P
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\A. HumanStudentAndWorker\obj\Debug\A. HumanStudentAndWorker.csprojResolveAssemblyReference.cache
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\A. HumanStudentAndWorker\obj\Debug\A.HumanStudentAndWorker.exe
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\A. HumanStudentAndWorker\obj\Debug\A.HumanStudentAndWorker.pdb
+D:\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\A. HumanStudentAndWorker\bin\Debug\A.HumanStudentAndWorker.exe.config
+D:\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\A. HumanStudentAndWorker\obj\Debug\A.HumanStudentAndWorker.exe
+D:\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\A. HumanStudentAndWorker\obj\Debug\A.HumanStudentAndWorker.pdb
