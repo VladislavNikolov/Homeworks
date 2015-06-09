@@ -4,4 +4,9 @@
         : base(name, age, gender)
     {
     }
+
+    public override string ProduceSound()
+    {
+        return "Woof!";
+    }
 }

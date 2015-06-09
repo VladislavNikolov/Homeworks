@@ -1,6 +1,6 @@
 ﻿using System;
 
-public abstract class Animal
+public abstract class Animal : ISoundProducible
 {
     private string name;
     private int age;
@@ -24,7 +24,7 @@ public abstract class Animal
         {
             if (string.IsNullOrWhiteSpace(value))
             {
-                throw new ArgumentNullException("Value cannot be empty");
+                throw new ArgumentNullException("Name", "Value cannot be empty");
             }
 
             this.name = value;
@@ -42,7 +42,7 @@ public abstract class Animal
         {
             if (value < 0)
             {
-                throw new ArgumentOutOfRangeException("Value cannot be negative");
+                throw new ArgumentOutOfRangeException("Age", "Value cannot be negative.");
             }
 
             this.age = value;
@@ -58,12 +58,14 @@ public abstract class Animal
 
         set
         {
-            if (string.IsNullOrWhiteSpace(value))
+            if (value != "male" && value != "female")
             {
-                throw new ArgumentNullException("Value cannot be empty");
+                throw new ArgumentException("Value must be either male or female.");
             }
 
             this.gender = value;
         }
     }
+
+    public abstract string ProduceSound();
 }
