@@ -1,0 +1,8 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\bin\Debug\C.Paths.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\bin\Debug\C.Paths.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\bin\Debug\C.Paths.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\bin\Debug\A.Point3D.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\bin\Debug\A.Point3D.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\obj\Debug\C. Paths.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\obj\Debug\C.Paths.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\2. Static-Members-Namespaces\C. Paths\obj\Debug\C.Paths.pdb
