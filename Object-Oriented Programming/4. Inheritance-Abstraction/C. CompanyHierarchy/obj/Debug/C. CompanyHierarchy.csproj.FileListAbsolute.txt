@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\C. CompanyHierarchy\bin\Debug\C.CompanyHierarchy.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\C. CompanyHierarchy\bin\Debug\C.CompanyHierarchy.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\C. CompanyHierarchy\bin\Debug\C.CompanyHierarchy.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\C. CompanyHierarchy\obj\Debug\C. CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\C. CompanyHierarchy\obj\Debug\C.CompanyHierarchy.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\4. Inheritance-Abstraction\C. CompanyHierarchy\obj\Debug\C.CompanyHierarchy.pdb
