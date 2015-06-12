@@ -2,7 +2,7 @@
 
 namespace A.Shapes
 {
-    class ShapesMain
+    public class ShapesMain
     {
         public static void Main(string[] args)
         {

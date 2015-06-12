@@ -4,7 +4,7 @@
     using Accounts;
     using Customers;
 
-    class BankOfKurtovoKonare
+    public class BankOfKurtovoKonare
     {
         static void Main(string[] args)
         {
