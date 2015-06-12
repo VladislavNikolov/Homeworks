@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\B. BankOfKurtovoKonare\bin\Debug\B.BankOfKurtovoKonare.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\B. BankOfKurtovoKonare\bin\Debug\B.BankOfKurtovoKonare.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\B. BankOfKurtovoKonare\bin\Debug\B.BankOfKurtovoKonare.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\B. BankOfKurtovoKonare\obj\Debug\B. BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\B. BankOfKurtovoKonare\obj\Debug\B.BankOfKurtovoKonare.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\B. BankOfKurtovoKonare\obj\Debug\B.BankOfKurtovoKonare.pdb

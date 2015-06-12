@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\A. Shapes\bin\Debug\A.Shapes.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\A. Shapes\bin\Debug\A.Shapes.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\A. Shapes\bin\Debug\A.Shapes.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\A. Shapes\obj\Debug\A. Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\A. Shapes\obj\Debug\A.Shapes.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\A. Shapes\obj\Debug\A.Shapes.pdb
