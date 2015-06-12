@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Shapes", "A. Shapes\A. S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. BankOfKurtovoKonare", "B. BankOfKurtovoKonare\B. BankOfKurtovoKonare.csproj", "{746B5D72-E634-4CF2-815E-DFFB863735EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSlum", "C. GameEngine\TheSlum.csproj", "{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. GameEngine", "C. GameEngine\C. GameEngine.csproj", "{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
