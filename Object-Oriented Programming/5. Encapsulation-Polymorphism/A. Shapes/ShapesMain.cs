@@ -6,21 +6,18 @@ namespace A.Shapes
     {
         public static void Main(string[] args)
         {
-            Circle c1 = new Circle(3);
-            BasicShape[] shapes = new BasicShape[]
+            IShape[] shapes = 
             {
                 new Rectangle(2, 4),
-                new Triangle(5, 9)
+                new Triangle(5, 9),
+                new Circle(3)
             };
 
-            foreach (BasicShape shape in shapes)
+            foreach (IShape shape in shapes)
             {
-                Console.WriteLine("{0} area is: {1}",shape.GetType().Name ,shape.CalculateArea());
-                Console.WriteLine("{0} perimeter is: {1}",shape.GetType().Name, shape.CalculatePerimeter());               
+                Console.WriteLine("{0} area is: {1:F2}",shape.GetType().Name ,shape.CalculateArea());
+                Console.WriteLine("{0} perimeter is: {1:F2}",shape.GetType().Name, shape.CalculatePerimeter());               
             }
-
-            Console.WriteLine("{0} area is: {1:F2}", c1.GetType().Name, c1.CalculateArea());
-            Console.WriteLine("{0} perimeter is: {1:F2}", c1.GetType().Name, c1.CalculatePerimeter());
         }
     }
 }
