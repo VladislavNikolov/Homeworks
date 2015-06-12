@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\C. GameEngine\bin\Debug\TheSlum.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\C. GameEngine\bin\Debug\TheSlum.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\C. GameEngine\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\C. GameEngine\obj\Debug\TheSlum.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\5. Encapsulation-Polymorphism\C. GameEngine\obj\Debug\TheSlum.pdb

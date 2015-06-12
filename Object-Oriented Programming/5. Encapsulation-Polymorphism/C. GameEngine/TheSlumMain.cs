@@ -2,11 +2,11 @@
 {
     using GameEngine;
 
-    public class Program
+    public class TheSlumMain
     {
         public static void Main()
         {
-            Engine engine = new Engine();
+            Engine engine = new ExtendedGameEngine();
             engine.Run();
         }
     }
