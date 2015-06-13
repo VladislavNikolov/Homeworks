@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\D. GenericListVersion\bin\Debug\D.GenericListVersion.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\D. GenericListVersion\bin\Debug\D.GenericListVersion.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\D. GenericListVersion\bin\Debug\D.GenericListVersion.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\D. GenericListVersion\obj\Debug\D.GenericListVersion.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\D. GenericListVersion\obj\Debug\D.GenericListVersion.pdb
