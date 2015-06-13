@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\B. FractionCalculator\bin\Debug\B.FractionCalculator.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\B. FractionCalculator\bin\Debug\B.FractionCalculator.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\B. FractionCalculator\bin\Debug\B.FractionCalculator.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\B. FractionCalculator\obj\Debug\B.FractionCalculator.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\B. FractionCalculator\obj\Debug\B.FractionCalculator.pdb
