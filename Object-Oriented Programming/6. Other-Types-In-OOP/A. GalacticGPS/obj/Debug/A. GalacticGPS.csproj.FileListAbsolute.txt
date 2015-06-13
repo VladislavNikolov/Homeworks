@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\A. GalacticGPS\bin\Debug\A.GalacticGPS.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\A. GalacticGPS\bin\Debug\A.GalacticGPS.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\A. GalacticGPS\bin\Debug\A.GalacticGPS.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\A. GalacticGPS\obj\Debug\A. GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\A. GalacticGPS\obj\Debug\A.GalacticGPS.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\6. Other-Types-In-OOP\A. GalacticGPS\obj\Debug\A.GalacticGPS.pdb
