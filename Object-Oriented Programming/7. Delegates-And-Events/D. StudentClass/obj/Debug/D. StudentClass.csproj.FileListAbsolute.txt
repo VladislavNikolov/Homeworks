@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\D. StudentClass\bin\Debug\D.StudentClass.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\D. StudentClass\bin\Debug\D.StudentClass.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\D. StudentClass\bin\Debug\D.StudentClass.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\D. StudentClass\obj\Debug\D. StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\D. StudentClass\obj\Debug\D.StudentClass.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\D. StudentClass\obj\Debug\D.StudentClass.pdb

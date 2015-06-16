@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\A. CustomLINQExtensionMethods\bin\Debug\A.CustomLINQExtensionMethods.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\A. CustomLINQExtensionMethods\bin\Debug\A.CustomLINQExtensionMethods.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\A. CustomLINQExtensionMethods\bin\Debug\A.CustomLINQExtensionMethods.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\A. CustomLINQExtensionMethods\obj\Debug\A. CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\A. CustomLINQExtensionMethods\obj\Debug\A.CustomLINQExtensionMethods.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\7. Delegates-And-Events\A. CustomLINQExtensionMethods\obj\Debug\A.CustomLINQExtensionMethods.pdb
