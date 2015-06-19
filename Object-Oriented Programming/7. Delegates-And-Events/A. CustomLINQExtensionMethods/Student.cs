@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class Student : IComparable<Student>
+    public class Student
     {
         public Student(string name, int grade)
         {
@@ -13,10 +13,5 @@
         public string Name { get; set; }
 
         public int Grade { get; set; }
-
-        public int CompareTo(Student other)
-        {
-            return 1;
-        }
     }
 }

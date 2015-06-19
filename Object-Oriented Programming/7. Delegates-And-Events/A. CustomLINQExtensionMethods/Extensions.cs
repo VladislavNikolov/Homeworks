@@ -21,23 +21,21 @@
             return result;
         }
 
-        public static TSource Max<TSource, TSelector>(
-            this IEnumerable<TSource> collection, Func<TSource, 
-            TSelector> predicate)
-            where TSource : IComparable<TSource>
+        public static TSelector Max<TSource, TSelector>(
+            this IEnumerable<TSource> collection, Func<TSource, TSelector> predicate)
+            where TSelector : IComparable
         {
-            var collectionArray = collection.ToArray();
-            var maxElement = collectionArray[0];
+            TSelector result = predicate(collection.First());
 
             foreach (var element in collection)
             {
-                if (element.CompareTo(maxElement) > 0)
+                if (result.CompareTo(predicate(element)) < 0)
                 {
-                    maxElement = element;
+                    result = predicate(element);
                 }
             }
 
-            return maxElement;
+            return result;
         }
     }
 }
