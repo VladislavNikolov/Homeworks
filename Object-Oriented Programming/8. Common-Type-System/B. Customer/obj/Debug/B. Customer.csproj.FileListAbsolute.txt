@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\B. Customer\bin\Debug\B.Customer.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\B. Customer\bin\Debug\B.Customer.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\B. Customer\bin\Debug\B.Customer.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\B. Customer\obj\Debug\B. Customer.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\B. Customer\obj\Debug\B.Customer.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\B. Customer\obj\Debug\B.Customer.pdb

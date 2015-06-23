@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\C. StringDisperser\bin\Debug\C.StringDisperser.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\C. StringDisperser\bin\Debug\C.StringDisperser.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\C. StringDisperser\bin\Debug\C.StringDisperser.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\C. StringDisperser\obj\Debug\C.StringDisperser.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Object-Oriented Programming\8. Common-Type-System\C. StringDisperser\obj\Debug\C.StringDisperser.pdb

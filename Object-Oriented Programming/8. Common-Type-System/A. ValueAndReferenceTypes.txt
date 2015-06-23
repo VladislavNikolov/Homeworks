@@ -1,0 +1,22 @@
+Which .NET data types are value types? Which types are reference types?
+A value type holds the data within its own memory allocation.
+A reference type contains a pointer to another memory location that holds the data.
+
+How do value and reference types differ when assigned to a variable?
+One is saved in the stack and the other in the heap.
+
+How do value and reference types behave when passed as argument to a method?
+Value types get deleted by the garbage collector when the method finishes and reference types don't.
+
+Where in memory are value types allocated? Where are reference types allocated?
+A value type is "allocated" where it is defined.
+A reference type is sort of a dual value. A reference type is at heart a pointer, and the pointer value follows the same rules for "allocation" as a value type, but once you store a value in it, ie. a reference to an object, that object is on the heap somewhere else. In other words, the reference variable itself is "allocated" as a value type, but the object it refers to is on the heap.
+
+What is data mutation? Can value types be mutated? Can reference types be mutated?
+Mutating changes the memory itself. Everything can be mutatated as long as it's not immutable.
+
+What is the difference between mutating and setting (assigning) a variable?
+Mutating changes the memory itself at the specified address while setting changes the address which the pointer is referencing.
+
+What are the out and ref keywords used for? In what do they differ?
+Ref takes the reference of the argumenta the method receives instead of making a copy. Out forces us to change the argument it received.
