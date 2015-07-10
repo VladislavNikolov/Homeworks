@@ -1,0 +1,15 @@
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\B. Orders.csprojResolveAssemblyReference.cache
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\B. Orders\bin\Debug\Orders.exe.config
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\B. Orders\obj\Debug\Orders.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\B. Orders\obj\Debug\Orders.pdb
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\B. Orders\bin\Debug\Orders.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\B. Orders\bin\Debug\Orders.pdb
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\B. Orders\obj\Debug\B. Orders.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\1. Naming-Identifiers\B. Orders\bin\Debug\Orders.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\1. Naming-Identifiers\B. Orders\obj\Debug\Orders.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\1. Naming-Identifiers\B. Orders\obj\Debug\Orders.pdb

@@ -1,0 +1,15 @@
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MatrixMultiplication\obj\Debug\A. MatrixMultiplication.csprojResolveAssemblyReference.cache
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MatrixMultiplication\bin\Debug\ConsoleApplication1.exe.config
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MatrixMultiplication\bin\Debug\ConsoleApplication1.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MatrixMultiplication\bin\Debug\ConsoleApplication1.pdb
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MatrixMultiplication\obj\Debug\ConsoleApplication1.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MatrixMultiplication\obj\Debug\ConsoleApplication1.pdb
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\A. MatrixMultiplication\bin\Debug\ConsoleApplication1.exe.config
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\A. MatrixMultiplication\obj\Debug\ConsoleApplication1.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\A. MatrixMultiplication\obj\Debug\ConsoleApplication1.pdb
+D:\Downloads\02. Naming-Identifiers-Homework\Naming-Identifiers\A. MatrixMultiplication\bin\Debug\ConsoleApplication1.exe.config
+D:\Downloads\02. Naming-Identifiers-Homework\Naming-Identifiers\A. MatrixMultiplication\obj\Debug\ConsoleApplication1.exe
+D:\Downloads\02. Naming-Identifiers-Homework\Naming-Identifiers\A. MatrixMultiplication\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\1. Naming-Identifiers\A. MatrixMultiplication\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\1. Naming-Identifiers\A. MatrixMultiplication\obj\Debug\ConsoleApplication1.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\1. Naming-Identifiers\A. MatrixMultiplication\obj\Debug\ConsoleApplication1.pdb
