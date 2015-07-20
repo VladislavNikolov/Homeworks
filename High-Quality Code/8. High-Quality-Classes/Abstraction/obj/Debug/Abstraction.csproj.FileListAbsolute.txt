@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Abstraction\obj\Debug\Abstraction.pdb

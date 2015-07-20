@@ -1,0 +1,15 @@
+D:\Downloads\OOP-Retake-Exam-1-June-2015\MassEffect\bin\Debug\MassEffect.exe.config
+D:\Downloads\OOP-Retake-Exam-1-June-2015\MassEffect\bin\Debug\MassEffect.exe
+D:\Downloads\OOP-Retake-Exam-1-June-2015\MassEffect\bin\Debug\MassEffect.pdb
+D:\Downloads\OOP-Retake-Exam-1-June-2015\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+D:\Downloads\OOP-Retake-Exam-1-June-2015\MassEffect\obj\Debug\MassEffect.exe
+D:\Downloads\OOP-Retake-Exam-1-June-2015\MassEffect\obj\Debug\MassEffect.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Exams\Object-Oriented Programming\Object-Oriented-Programming\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Exams\Object-Oriented Programming\Object-Oriented-Programming\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Exams\Object-Oriented Programming\Object-Oriented-Programming\MassEffect\obj\Debug\MassEffect.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Exams\Object-Oriented Programming\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Exams\Object-Oriented Programming\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Exams\Object-Oriented Programming\MassEffect\obj\Debug\MassEffect.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\4. Code-Documentation-Comments\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\4. Code-Documentation-Comments\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Quality Programming Code\4. Code-Documentation-Comments\MassEffect\obj\Debug\MassEffect.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\8. High-Quality-Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

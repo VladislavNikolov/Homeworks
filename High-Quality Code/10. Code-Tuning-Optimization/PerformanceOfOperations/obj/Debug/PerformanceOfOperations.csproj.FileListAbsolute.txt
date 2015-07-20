@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\10. Code-Tuning-Optimization\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\10. Code-Tuning-Optimization\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\10. Code-Tuning-Optimization\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\10. Code-Tuning-Optimization\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\10. Code-Tuning-Optimization\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\10. Code-Tuning-Optimization\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.pdb
