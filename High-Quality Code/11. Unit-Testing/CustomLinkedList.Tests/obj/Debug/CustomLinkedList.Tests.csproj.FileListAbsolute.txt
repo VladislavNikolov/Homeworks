@@ -1,0 +1,7 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\11. Unit-Testing\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.dll
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\11. Unit-Testing\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\11. Unit-Testing\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.dll
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\11. Unit-Testing\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\11. Unit-Testing\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\11. Unit-Testing\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.dll
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\11. Unit-Testing\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.pdb
