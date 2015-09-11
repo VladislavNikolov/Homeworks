@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\17. Refactoring\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\17. Refactoring\bin\Debug\Refactoring.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\17. Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\17. Refactoring\obj\x86\Debug\Refactoring.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\17. Refactoring\obj\x86\Debug\Refactoring.pdb

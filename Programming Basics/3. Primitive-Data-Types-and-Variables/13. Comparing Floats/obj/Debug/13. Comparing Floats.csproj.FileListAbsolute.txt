@@ -7,3 +7,6 @@ C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Primitive Data Types and Va
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
 C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Primitive-Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Programming Basics\3. Primitive-Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Programming Basics\3. Primitive-Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\Programming Basics\3. Primitive-Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

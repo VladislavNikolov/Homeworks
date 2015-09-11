@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\15. SOLID-Principles-Software-Design\SOLIDLogger\bin\Debug\SOLIDLogger.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\15. SOLID-Principles-Software-Design\SOLIDLogger\obj\Debug\SOLIDLogger.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\15. SOLID-Principles-Software-Design\SOLIDLogger\bin\Debug\SOLIDLogger.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\15. SOLID-Principles-Software-Design\SOLIDLogger\bin\Debug\SOLIDLogger.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\15. SOLID-Principles-Software-Design\SOLIDLogger\obj\Debug\SOLIDLogger.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homeworks\High-Quality Code\15. SOLID-Principles-Software-Design\SOLIDLogger\obj\Debug\SOLIDLogger.pdb
